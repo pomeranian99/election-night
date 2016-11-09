@@ -1,0 +1,11 @@
+
+.center {
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 15vw;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  top: 30%;
+  text-align: center;
+}
+

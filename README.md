@@ -1,2 +1,2 @@
 # election-night
-A small script to freak out for you.
+A small script that will freak out for you.
